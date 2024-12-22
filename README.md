@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chrome Extension with React.js Boilerplate
 
 [![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/vivek9patel/chrome-extension-react-boilerplate)
@@ -89,3 +90,7 @@ If you have questions, feature requests or a bug you want to report, please clic
 Like what you see? Keep me awake at night by buying me a coffee or two.
 
 <a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
+=======
+# SummarEase
+a extention that is summarizes and answers any question from active tab 
+>>>>>>> 12405f0cd98eb68439394b8d66e763b60a1399b1
